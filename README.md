@@ -24,7 +24,7 @@
 
 <p align="center">
 <a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.HamidGoudarzi.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/hamid-goudarzi-m-eng-b11253163"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamid%20Goudarzi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/hamid-goudarzi-m-eng-b11253163/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamid%20Goudarzi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/hamidg1988/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hamidg1988-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:goudarzi.hamid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-goudarzi.hamid@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
