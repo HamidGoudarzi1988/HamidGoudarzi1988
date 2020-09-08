@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Master of Engineering from Concordia University.
 - 💼 &nbsp; Working as a Business Development Associate .
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Looking for a full stack developer opportunity in Canada.
 
 <h3>🛠 Tech Stack</h3>
 
